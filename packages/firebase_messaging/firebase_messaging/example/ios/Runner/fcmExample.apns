@@ -1,0 +1,11 @@
+{
+    "Simulator Target Bundle": "test.ios.example",
+    "aps": {
+        "alert": "Push test!",
+        "badge": 1,
+        "sound": "default"
+    }
+    "type":"Some type",
+    "id":Some Id,
+    "gcm.message_id":"20021"
+}

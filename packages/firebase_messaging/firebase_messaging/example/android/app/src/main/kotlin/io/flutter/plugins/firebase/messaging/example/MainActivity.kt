@@ -1,4 +1,4 @@
-package io.flutter.plugins.firebase.messaging.example
+package push_firebase_message_tester
 
 import io.flutter.embedding.android.FlutterActivity
 
